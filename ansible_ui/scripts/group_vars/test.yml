@@ -1,0 +1,3 @@
+# scripts/group_vars/test.yml
+env: 'test_group'
+group_env: 'test_group'

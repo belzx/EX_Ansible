@@ -1,0 +1,6 @@
+
+# playbooks/test.yml
+- hosts: localhost
+  tasks:
+    - name: Ping
+      ping:
